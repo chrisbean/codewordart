@@ -1,2 +1,3 @@
 # hello-world
-Hello World is a simple exercise that gets you started when learning something new!
+
+I simplify and clarify complex technical ideas to create innovative training experiences.
